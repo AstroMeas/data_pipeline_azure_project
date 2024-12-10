@@ -1,0 +1,9 @@
+{
+	"name": "adfnypayroll",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f947cd8-0bec-4a7e-ac94-4dd97afc52f2",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
